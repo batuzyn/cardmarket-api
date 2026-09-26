@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Magic",
+    "name": "Magic: The Gathering",
+    "url": "https://www.cardmarket.com/en/Magic"
+  },
+  {
+    "id": "Pokemon",
+    "name": "Pokémon",
+    "url": "https://www.cardmarket.com/en/Pokemon"
+  },
+  {
+    "id": "OnePiece",
+    "name": "One Piece",
+    "url": "https://www.cardmarket.com/en/OnePiece"
+  },
+  {
+    "id": "YuGiOh",
+    "name": "Yu-Gi-Oh!",
+    "url": "https://www.cardmarket.com/en/YuGiOh"
+  },
+  {
+    "id": "Riftbound",
+    "name": "Riftbound",
+    "url": "https://www.cardmarket.com/en/Riftbound"
+  },
+  {
+    "id": "Lorcana",
+    "name": "Lorcana",
+    "url": "https://www.cardmarket.com/en/Lorcana"
+  },
+  {
+    "id": "Cyberpunk",
+    "name": "Cyberpunk",
+    "url": "https://www.cardmarket.com/en/Cyberpunk"
+  },
+  {
+    "id": "DragonBallSuper",
+    "name": "Dragon Ball Super",
+    "url": "https://www.cardmarket.com/en/DragonBallSuper"
+  },
+  {
+    "id": "Digimon",
+    "name": "Digimon",
+    "url": "https://www.cardmarket.com/en/Digimon"
+  },
+  {
+    "id": "Gundam",
+    "name": "Gundam",
+    "url": "https://www.cardmarket.com/en/Gundam"
+  },
+  {
+    "id": "FleshAndBlood",
+    "name": "Flesh And Blood",
+    "url": "https://www.cardmarket.com/en/FleshAndBlood"
+  },
+  {
+    "id": "StarWarsUnlimited",
+    "name": "Star Wars Unlimited",
+    "url": "https://www.cardmarket.com/en/StarWarsUnlimited"
+  },
+  {
+    "id": "Vanguard",
+    "name": "Cardfight!! Vanguard",
+    "url": "https://www.cardmarket.com/en/Vanguard"
+  },
+  {
+    "id": "FinalFantasy",
+    "name": "Final Fantasy TCG",
+    "url": "https://www.cardmarket.com/en/FinalFantasy"
+  },
+  {
+    "id": "FoW",
+    "name": "Force of Will",
+    "url": "https://www.cardmarket.com/en/FoW"
+  },
+  {
+    "id": "WeissSchwarz",
+    "name": "Weiss Schwarz",
+    "url": "https://www.cardmarket.com/en/WeissSchwarz"
+  },
+  {
+    "id": "WoW",
+    "name": "World of Warcraft TCG",
+    "url": "https://www.cardmarket.com/en/WoW"
+  },
+  {
+    "id": "BattleSpiritsSaga",
+    "name": "Battle Spirits Saga",
+    "url": "https://www.cardmarket.com/en/BattleSpiritsSaga"
+  },
+  {
+    "id": "StarWarsDestiny",
+    "name": "Star Wars: Destiny",
+    "url": "https://www.cardmarket.com/en/StarWarsDestiny"
+  },
+  {
+    "id": "Dragoborne",
+    "name": "Dragoborne",
+    "url": "https://www.cardmarket.com/en/Dragoborne"
+  },
+  {
+    "id": "MyLittlePony",
+    "name": "My Little Pony CCG",
+    "url": "https://www.cardmarket.com/en/MyLittlePony"
+  },
+  {
+    "id": "Spoils",
+    "name": "The Spoils",
+    "url": "https://www.cardmarket.com/en/Spoils"
+  }
+]

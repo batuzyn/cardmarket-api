@@ -1,0 +1,271 @@
+{
+  "name": "ilGiocoliere",
+  "url": "https://www.cardmarket.com/en/Magic/Users/ilGiocoliere",
+  "type": "Professional",
+  "member_since": 2012,
+  "country": "Italy",
+  "rating": "Very good",
+  "shipping_days": 22,
+  "evaluations": {
+    "overall_evaluation": {
+      "very_good": 96,
+      "good": 4,
+      "neutral": 0,
+      "bad": 0
+    },
+    "description_of_items": {
+      "very_good": 98,
+      "good": 0,
+      "neutral": 2,
+      "bad": 0
+    },
+    "packaging_of_shipment": {
+      "very_good": 99,
+      "good": 1,
+      "neutral": 0,
+      "bad": 0
+    }
+  },
+  "stats": {
+    "purchases": 1497,
+    "sales": 22268,
+    "not_paid_shipments": 4,
+    "not_sent_sales": 18,
+    "not_received_purchases": 31,
+    "not_arrived_shipments": 58
+  },
+  "offer_categories": [
+    {
+      "category": "Singles",
+      "count": 103662,
+      "url": "https://www.cardmarket.com/en/Magic/Users/ilGiocoliere/Offers/Singles"
+    },
+    {
+      "category": "Other Boxes",
+      "count": 6,
+      "url": "https://www.cardmarket.com/en/Magic/Users/ilGiocoliere/Offers/Other-Boxes"
+    },
+    {
+      "category": "Miscellaneous Products",
+      "count": 1,
+      "url": "https://www.cardmarket.com/en/Magic/Users/ilGiocoliere/Offers/Miscellaneous-Products"
+    },
+    {
+      "category": "Sleeves",
+      "count": null,
+      "url": "https://www.cardmarket.com/en/Magic/Users/ilGiocoliere/Offers/Sleeves"
+    },
+    {
+      "category": "Playmats",
+      "count": null,
+      "url": "https://www.cardmarket.com/en/Magic/Users/ilGiocoliere/Offers/Playmats"
+    },
+    {
+      "category": "Dice",
+      "count": 106,
+      "url": "https://www.cardmarket.com/en/Magic/Users/ilGiocoliere/Offers/Dice"
+    },
+    {
+      "category": "Books - Comics - Guides",
+      "count": 15,
+      "url": "https://www.cardmarket.com/en/Magic/Users/ilGiocoliere/Offers/Books-Comics-Guides"
+    },
+    {
+      "category": "Dividers",
+      "count": 1,
+      "url": "https://www.cardmarket.com/en/Magic/Users/ilGiocoliere/Offers/Dividers"
+    },
+    {
+      "category": "Memorabilia",
+      "count": 7,
+      "url": "https://www.cardmarket.com/en/Magic/Users/ilGiocoliere/Offers/Memorabilia"
+    },
+    {
+      "category": "Life Counter",
+      "count": null,
+      "url": "https://www.cardmarket.com/en/Magic/Users/ilGiocoliere/Offers/Life-Counter"
+    }
+  ],
+  "recent_evaluations": [
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value between 25 and 100 Euro",
+      "date": "26.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": "A ++",
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value between 25 and 100 Euro",
+      "date": "25.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value < 25 Euro",
+      "date": "24.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value < 25 Euro",
+      "date": "23.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value < 25 Euro",
+      "date": "22.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": "Perfetta",
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value between 25 and 100 Euro",
+      "date": "22.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value < 25 Euro",
+      "date": "21.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value < 25 Euro",
+      "date": "21.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value between 25 and 100 Euro",
+      "date": "21.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value < 25 Euro",
+      "date": "18.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value < 25 Euro",
+      "date": "18.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value < 25 Euro",
+      "date": "18.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value between 25 and 100 Euro",
+      "date": "18.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value between 25 and 100 Euro",
+      "date": "18.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value between 25 and 100 Euro",
+      "date": "18.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value between 25 and 100 Euro",
+      "date": "18.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value between 25 and 100 Euro",
+      "date": "17.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value < 25 Euro",
+      "date": "17.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": "Top",
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value between 25 and 100 Euro",
+      "date": "17.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    },
+    {
+      "buyer_country": "Italy",
+      "order_value": "Value < 25 Euro",
+      "date": "17.09.2026",
+      "description": "Very Good",
+      "packaging": "Very Good",
+      "comment": null,
+      "overall": "Very Good"
+    }
+  ]
+}

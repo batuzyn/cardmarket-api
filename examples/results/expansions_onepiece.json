@@ -1,0 +1,1370 @@
+[
+  {
+    "name": "OP19",
+    "slug": "OP19",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/OP19",
+    "year": 2027,
+    "release_date": "5th March, 2027",
+    "product_count": 0,
+    "image": null
+  },
+  {
+    "name": "The Dominance of God",
+    "slug": "The-Dominance-of-God",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/The-Dominance-of-God",
+    "year": 2026,
+    "release_date": "20th November, 2026",
+    "product_count": 0,
+    "image": null
+  },
+  {
+    "name": "Heroines Edition Vol.2",
+    "slug": "Heroines-Edition-Vol2",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Heroines-Edition-Vol2",
+    "year": 2026,
+    "release_date": "30th October, 2026",
+    "product_count": 0,
+    "image": null
+  },
+  {
+    "name": "Set Sail Deck Set",
+    "slug": "Set-Sail-Deck-Set",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Set-Sail-Deck-Set",
+    "year": 2026,
+    "release_date": "18th September, 2026",
+    "product_count": 28,
+    "image": "https://product-images.s3.cardmarket.com/1621/SD01/909954/909954.jpg"
+  },
+  {
+    "name": "The World’s Strongest Warriors (Asia Region Legal)",
+    "slug": "The-Worlds-Strongest-Warriors-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/The-Worlds-Strongest-Warriors-Asia-Region-Legal",
+    "year": 2026,
+    "release_date": "28th August, 2026",
+    "product_count": 178,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP17-JP/905029/905029.jpg"
+  },
+  {
+    "name": "The World’s Strongest Warriors",
+    "slug": "OP17",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/OP17",
+    "year": 2026,
+    "release_date": "28th August, 2026",
+    "product_count": 178,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP17/903888/903888.jpg"
+  },
+  {
+    "name": "Promos: The World’s Strongest Warriors",
+    "slug": "Promos-The-Worlds-Strongest-Warriors",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-The-Worlds-Strongest-Warriors",
+    "year": 2026,
+    "release_date": "21st August, 2026",
+    "product_count": 77,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP17P/904168/904168.jpg"
+  },
+  {
+    "name": "Starter Deck: Yellow Eustass \"Captain\" Kid",
+    "slug": "Starter-Deck-Yellow-Eustass-Captain-Kid",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Yellow-Eustass-Captain-Kid",
+    "year": 2026,
+    "release_date": "31st July, 2026",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST36/900568/900568.jpg"
+  },
+  {
+    "name": "Starter Deck: Red/Black Sabo",
+    "slug": "Starter-Deck-RedBlack-Sabo",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-RedBlack-Sabo",
+    "year": 2026,
+    "release_date": "31st July, 2026",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST35/900556/900556.jpg"
+  },
+  {
+    "name": "Starter Deck: Purple Charlotte Katakuri",
+    "slug": "Starter-Deck-Purple-Charlotte-Katakuri",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Purple-Charlotte-Katakuri",
+    "year": 2026,
+    "release_date": "31st July, 2026",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST34/900484/900484.jpg"
+  },
+  {
+    "name": "Starter Deck: Blue Kuzan",
+    "slug": "Starter-Deck-Blue-Kuzan",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Blue-Kuzan",
+    "year": 2026,
+    "release_date": "31st July, 2026",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST33/900305/900305.jpg"
+  },
+  {
+    "name": "Starter Deck: Green Roronoa Zoro",
+    "slug": "Starter-Deck-Green-Roronoa-Zoro",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Green-Roronoa-Zoro",
+    "year": 2026,
+    "release_date": "31st July, 2026",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST32/900289/900289.jpg"
+  },
+  {
+    "name": "Starter Deck: Red Monkey.D.Luffy",
+    "slug": "Starter-Deck-Red-MonkeyDLuffy",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Red-MonkeyDLuffy",
+    "year": 2026,
+    "release_date": "31st July, 2026",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST31/900286/900286.jpg"
+  },
+  {
+    "name": "Starter Deck: Yellow Eustass \"Captain\" Kid (Asia Region Legal)",
+    "slug": "Starter-Deck-Yellow-Eustass-Captain-Kid-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Yellow-Eustass-Captain-Kid-Asia-Region-Legal",
+    "year": 2026,
+    "release_date": "11th July, 2026",
+    "product_count": 13,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST36-JP/910984/910984.jpg"
+  },
+  {
+    "name": "Starter Deck: Red/Black Sabo (Asia Region Legal)",
+    "slug": "Starter-Deck-RedBlack-Sabo-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-RedBlack-Sabo-Asia-Region-Legal",
+    "year": 2026,
+    "release_date": "11th July, 2026",
+    "product_count": 14,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST35-JP/910965/910965.jpg"
+  },
+  {
+    "name": "Starter Deck: Purple Charlotte Katakuri (Asia Region Legal)",
+    "slug": "Starter-Deck-Purple-Charlotte-Katakuri-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Purple-Charlotte-Katakuri-Asia-Region-Legal",
+    "year": 2026,
+    "release_date": "11th July, 2026",
+    "product_count": 14,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST34-JP/910951/910951.jpg"
+  },
+  {
+    "name": "Starter Deck: Blue Kuzan (Asia Region Legal)",
+    "slug": "Starter-Deck-Blue-Kuzan-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Blue-Kuzan-Asia-Region-Legal",
+    "year": 2026,
+    "release_date": "11th July, 2026",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST33-JP/910932/910932.jpg"
+  },
+  {
+    "name": "Starter Deck: Green Roronoa Zoro (Asia Region Legal)",
+    "slug": "Starter-Deck-Green-Roronoa-Zoro-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Green-Roronoa-Zoro-Asia-Region-Legal",
+    "year": 2026,
+    "release_date": "11th July, 2026",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST32-JP/910928/910928.jpg"
+  },
+  {
+    "name": "Starter Deck: Red Monkey.D.Luffy (Asia Region Legal)",
+    "slug": "Starter-Deck-Red-MonkeyDLuffy-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Red-MonkeyDLuffy-Asia-Region-Legal",
+    "year": 2026,
+    "release_date": "11th July, 2026",
+    "product_count": 14,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST31-JP/910909/910909.jpg"
+  },
+  {
+    "name": "The Time of Battle",
+    "slug": "OP16",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/OP16",
+    "year": 2026,
+    "release_date": "12th June, 2026",
+    "product_count": 158,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP16/890827/890827.jpg"
+  },
+  {
+    "name": "Starter Deck: EX Luffy & Ace",
+    "slug": "Starter-Deck-EX-Luffy-Ace",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-EX-Luffy-Ace",
+    "year": 2026,
+    "release_date": "12th June, 2026",
+    "product_count": 34,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST30/891039/891039.jpg"
+  },
+  {
+    "name": "Promos: The Time of Battle",
+    "slug": "Promos-The-Time-of-Battle",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-The-Time-of-Battle",
+    "year": 2026,
+    "release_date": "12th June, 2026",
+    "product_count": 74,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP16P/891414/891414.jpg"
+  },
+  {
+    "name": "The Time of Battle (Asia Region Legal)",
+    "slug": "The-Time-of-Battle-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/The-Time-of-Battle-Asia-Region-Legal",
+    "year": 2026,
+    "release_date": "30th May, 2026",
+    "product_count": 158,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP16-JP/890524/890524.jpg"
+  },
+  {
+    "name": "Starter Deck: EX Luffy & Ace (Asia Region Legal)",
+    "slug": "Starter-Deck-EX-Luffy-Ace-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-EX-Luffy-Ace-Asia-Region-Legal",
+    "year": 2026,
+    "release_date": "11th April, 2026",
+    "product_count": 34,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST30-JP/884747/884747.jpg"
+  },
+  {
+    "name": "Adventure on Kami’s Island",
+    "slug": "Adventure-on-Kamis-Island",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Adventure-on-Kamis-Island",
+    "year": 2026,
+    "release_date": "3rd April, 2026",
+    "product_count": 199,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP15/880056/880056.jpg"
+  },
+  {
+    "name": "Promos: Adventure on Kami’s Island",
+    "slug": "Promos-Adventure-on-Kamis-Island",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-Adventure-on-Kamis-Island",
+    "year": 2026,
+    "release_date": "2nd April, 2026",
+    "product_count": 90,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP15P/883406/883406.jpg"
+  },
+  {
+    "name": "Adventure on Kami’s Island (Asia Region Legal)",
+    "slug": "Adventure-on-Kamis-Island-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Adventure-on-Kamis-Island-Asia-Region-Legal",
+    "year": 2026,
+    "release_date": "28th February, 2026",
+    "product_count": 155,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP15-JP/875136/875136.jpg"
+  },
+  {
+    "name": "Heroines Edition",
+    "slug": "Heroines-Edition",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Heroines-Edition",
+    "year": 2026,
+    "release_date": "20th February, 2026",
+    "product_count": 100,
+    "image": "https://product-images.s3.cardmarket.com/1621/EB03/872009/872009.jpg"
+  },
+  {
+    "name": "Egghead Crisis (Asia Region Legal)",
+    "slug": "Egghead-Crisis-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Egghead-Crisis-Asia-Region-Legal",
+    "year": 2026,
+    "release_date": "31st January, 2026",
+    "product_count": 87,
+    "image": "https://product-images.s3.cardmarket.com/1621/EB04-JP/871479/871479.jpg"
+  },
+  {
+    "name": "The Azure Sea's Seven",
+    "slug": "The-Azure-Seas-Seven",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/The-Azure-Seas-Seven",
+    "year": 2026,
+    "release_date": "16th January, 2026",
+    "product_count": 204,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP14/865537/865537.jpg"
+  },
+  {
+    "name": "Starter Deck: Egghead",
+    "slug": "Starter-Deck-Egghead",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Egghead",
+    "year": 2026,
+    "release_date": "16th January, 2026",
+    "product_count": 31,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST29/865584/865584.jpg"
+  },
+  {
+    "name": "Promos: The Azure Sea's Seven",
+    "slug": "Promos-The-Azure-Seas-Seven",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-The-Azure-Seas-Seven",
+    "year": 2026,
+    "release_date": "16th January, 2026",
+    "product_count": 89,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP14P/865997/865997.jpg"
+  },
+  {
+    "name": "Starter Deck: Egghead (Asia Region Legal)",
+    "slug": "Starter-Deck-Egghead-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Egghead-Asia-Region-Legal",
+    "year": 2025,
+    "release_date": "20th December, 2025",
+    "product_count": 31,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST29-JP/867300/867300.jpg"
+  },
+  {
+    "name": "The Azure Sea's Seven (Asia Region Legal)",
+    "slug": "The-Azure-Seas-Seven-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/The-Azure-Seas-Seven-Asia-Region-Legal",
+    "year": 2025,
+    "release_date": "22nd November, 2025",
+    "product_count": 159,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP14-JP/861808/861808.jpg"
+  },
+  {
+    "name": "Carrying on his Will",
+    "slug": "Carrying-on-his-Will",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Carrying-on-his-Will",
+    "year": 2025,
+    "release_date": "7th November, 2025",
+    "product_count": 179,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP13/857282/857282.jpg"
+  },
+  {
+    "name": "Promos: Carrying on his Will",
+    "slug": "Promos-Carrying-on-his-Will",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-Carrying-on-his-Will",
+    "year": 2025,
+    "release_date": "31st October, 2025",
+    "product_count": 75,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP13P/862086/862086.jpg"
+  },
+  {
+    "name": "Heroines Edition (Asia Region Legal)",
+    "slug": "Heroines-Edition-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Heroines-Edition-Asia-Region-Legal",
+    "year": 2025,
+    "release_date": "25th October, 2025",
+    "product_count": 100,
+    "image": "https://product-images.s3.cardmarket.com/1621/EB03-JP/858362/858362.jpg"
+  },
+  {
+    "name": "The Best Vol.2",
+    "slug": "The-Best-Vol2",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/The-Best-Vol2",
+    "year": 2025,
+    "release_date": "3rd October, 2025",
+    "product_count": 406,
+    "image": "https://product-images.s3.cardmarket.com/1621/PRB02/852320/852320.jpg"
+  },
+  {
+    "name": "Learn Together Deck Set 01",
+    "slug": "Learn-Together-Deck-Set-01",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Learn-Together-Deck-Set-01",
+    "year": 2025,
+    "release_date": "3rd October, 2025",
+    "product_count": 50,
+    "image": "https://product-images.s3.cardmarket.com/1621/LD01/852785/852785.jpg"
+  },
+  {
+    "name": "Starter Deck: EX Ace & Newgate",
+    "slug": "Starter-Deck-EX-Ace-Newgate",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-EX-Ace-Newgate",
+    "year": 2025,
+    "release_date": "5th September, 2025",
+    "product_count": 31,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-22/846352/846352.jpg"
+  },
+  {
+    "name": "Carrying on his Will (Non-English)",
+    "slug": "Carrying-on-his-Will-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Carrying-on-his-Will-Non-English",
+    "year": 2025,
+    "release_date": "23rd August, 2025",
+    "product_count": 177,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP13-JP/845696/845696.jpg"
+  },
+  {
+    "name": "Legacy of the Master",
+    "slug": "Legacy-of-the-Master",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Legacy-of-the-Master",
+    "year": 2025,
+    "release_date": "22nd August, 2025",
+    "product_count": 157,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP12/842962/842962.jpg"
+  },
+  {
+    "name": "Promos: Legacy of the Master",
+    "slug": "Promos-Legacy-of-the-Master",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-Legacy-of-the-Master",
+    "year": 2025,
+    "release_date": "15th August, 2025",
+    "product_count": 75,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP12P/843047/843047.jpg"
+  },
+  {
+    "name": "The Best Vol. 2 (Non-English)",
+    "slug": "The-Best-Vol-2-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/The-Best-Vol-2-Non-English",
+    "year": 2025,
+    "release_date": "26th July, 2025",
+    "product_count": 406,
+    "image": "https://product-images.s3.cardmarket.com/1621/PRB02-JP/839472/839472.jpg"
+  },
+  {
+    "name": "Starter Deck: Green Yellow Yamato (Non-English)",
+    "slug": "Starter-Deck-Green-Yellow-Yamato-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Green-Yellow-Yamato-Non-English",
+    "year": 2025,
+    "release_date": "26th June, 2025",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-28-JP/850890/850890.jpg"
+  },
+  {
+    "name": "Starter Deck: Black Marshall.D.Teach (Non-English)",
+    "slug": "Starter-Deck-Black-MarshallDTeach-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Black-MarshallDTeach-Non-English",
+    "year": 2025,
+    "release_date": "26th June, 2025",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-27-JP/850880/850880.jpg"
+  },
+  {
+    "name": "Starter Deck: Purple Black Monkey.D.Luffy (Non-English)",
+    "slug": "Starter-Deck-Purple-Black-MonkeyDLuffy-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Purple-Black-MonkeyDLuffy-Non-English",
+    "year": 2025,
+    "release_date": "26th June, 2025",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-26-JP/850865/850865.jpg"
+  },
+  {
+    "name": "Starter Deck: Blue Buggy (Non-English)",
+    "slug": "Starter-Deck-Blue-Buggy-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Blue-Buggy-Non-English",
+    "year": 2025,
+    "release_date": "26th June, 2025",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-25-JP/850850/850850.jpg"
+  },
+  {
+    "name": "Starter Deck: Green Jewelry Bonney (Non-English)",
+    "slug": "Starter-Deck-Green-Jewelry-Bonney-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Green-Jewelry-Bonney-Non-English",
+    "year": 2025,
+    "release_date": "26th June, 2025",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-24-JP/850788/850788.jpg"
+  },
+  {
+    "name": "Starter Deck: Red Shanks (Non-English)",
+    "slug": "Starter-Deck-Red-Shanks-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Red-Shanks-Non-English",
+    "year": 2025,
+    "release_date": "26th June, 2025",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-23-JP/838340/838340.jpg"
+  },
+  {
+    "name": "Starter Deck: Green Yellow Yamato",
+    "slug": "Starter-Deck-Green-Yellow-Yamato",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Green-Yellow-Yamato",
+    "year": 2025,
+    "release_date": "6th June, 2025",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-28/829186/829186.jpg"
+  },
+  {
+    "name": "Starter Deck: Black Marshall.D.Teach",
+    "slug": "Starter-Deck-Black-MarshallDTeach",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Black-MarshallDTeach",
+    "year": 2025,
+    "release_date": "6th June, 2025",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-27/829171/829171.jpg"
+  },
+  {
+    "name": "Starter Deck: Purple Black Monkey.D.Luffy",
+    "slug": "Starter-Deck-Purple-Black-MonkeyDLuffy",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Purple-Black-MonkeyDLuffy",
+    "year": 2025,
+    "release_date": "6th June, 2025",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-26/829156/829156.jpg"
+  },
+  {
+    "name": "Starter Deck: Blue Buggy",
+    "slug": "Starter-Deck-Blue-Buggy",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Blue-Buggy",
+    "year": 2025,
+    "release_date": "6th June, 2025",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-25/829136/829136.jpg"
+  },
+  {
+    "name": "Starter Deck: Green Jewelry Bonney",
+    "slug": "Starter-Deck-Green-Jewlery-Bonney",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Green-Jewlery-Bonney",
+    "year": 2025,
+    "release_date": "6th June, 2025",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-24/829113/829113.jpg"
+  },
+  {
+    "name": "Starter Deck: Red Shanks",
+    "slug": "Starter-Deck-Red-Shanks",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Red-Shanks",
+    "year": 2025,
+    "release_date": "6th June, 2025",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-23/829108/829108.jpg"
+  },
+  {
+    "name": "A Fist of Divine Speed",
+    "slug": "A-Fist-of-Divine-Speed",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/A-Fist-of-Divine-Speed",
+    "year": 2025,
+    "release_date": "6th June, 2025",
+    "product_count": 158,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP11/827269/827269.jpg"
+  },
+  {
+    "name": "Promos: A Fist of Divine Speed",
+    "slug": "Promos-A-Fist-of-Divine-Speed",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-A-Fist-of-Divine-Speed",
+    "year": 2025,
+    "release_date": "2nd June, 2025",
+    "product_count": 75,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP11P/828576/828576.jpg"
+  },
+  {
+    "name": "Legacy of the Master (Non-English)",
+    "slug": "Bonds-of-Master-and-Disciple-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Bonds-of-Master-and-Disciple-Non-English",
+    "year": 2025,
+    "release_date": "31st May, 2025",
+    "product_count": 156,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP12-JP/830375/830375.jpg"
+  },
+  {
+    "name": "Anime 25th Collection",
+    "slug": "Anime-25th-Collection",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Anime-25th-Collection",
+    "year": 2025,
+    "release_date": "9th May, 2025",
+    "product_count": 106,
+    "image": "https://product-images.s3.cardmarket.com/1621/EB02/823445/823445.jpg"
+  },
+  {
+    "name": "Starter Deck: EX Ace & Newgate (Non-English)",
+    "slug": "Starter-Deck-EX-Ace-Newgate-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-EX-Ace-Newgate-Non-English",
+    "year": 2025,
+    "release_date": "26th April, 2025",
+    "product_count": 31,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-22-JP/824473/824473.jpg"
+  },
+  {
+    "name": "Royal Blood",
+    "slug": "Royal-Blood",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Royal-Blood",
+    "year": 2025,
+    "release_date": "21st March, 2025",
+    "product_count": 153,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP10/817142/817142.jpg"
+  },
+  {
+    "name": "Promos: Royal Blood",
+    "slug": "Promos-Royal-Blood",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-Royal-Blood",
+    "year": 2025,
+    "release_date": "21st March, 2025",
+    "product_count": 75,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP10P/817563/817563.jpg"
+  },
+  {
+    "name": "Starter Deck: EX Gear 5",
+    "slug": "Ultra-Deck-EX-Gear-5",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Ultra-Deck-EX-Gear-5",
+    "year": 2025,
+    "release_date": "14th March, 2025",
+    "product_count": 32,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-21/816813/816813.jpg"
+  },
+  {
+    "name": "A Fist of Divine Speed (Non-English)",
+    "slug": "A-Fist-of-Divine-Speed-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/A-Fist-of-Divine-Speed-Non-English",
+    "year": 2025,
+    "release_date": "1st March, 2025",
+    "product_count": 157,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP11-JP/817401/817401.jpg"
+  },
+  {
+    "name": "Anime 25th Collection (Non-English)",
+    "slug": "Anime-25th-Collection-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Anime-25th-Collection-Japanese",
+    "year": 2025,
+    "release_date": "25th January, 2025",
+    "product_count": 106,
+    "image": "https://product-images.s3.cardmarket.com/1621/EB02-JP/808117/808117.jpg"
+  },
+  {
+    "name": "Starter Deck: EX Gear 5 (Non English)",
+    "slug": "Starter-Deck-EX-Gear-5-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-EX-Gear-5-Non-English",
+    "year": 2024,
+    "release_date": "21st December, 2024",
+    "product_count": 32,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-21-JP/808750/808750.jpg"
+  },
+  {
+    "name": "Promos: Emperors in the New World",
+    "slug": "Promos-Emperors-in-the-New-World",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-Emperors-in-the-New-World",
+    "year": 2024,
+    "release_date": "13th December, 2024",
+    "product_count": 75,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP09P/803020/803020.jpg"
+  },
+  {
+    "name": "Emperors in the New World",
+    "slug": "Emperors-in-the-New-World",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Emperors-in-the-New-World",
+    "year": 2024,
+    "release_date": "13th December, 2024",
+    "product_count": 161,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP09/802961/802961.jpg"
+  },
+  {
+    "name": "Royal Blood (Non-English)",
+    "slug": "Royal-Blood-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Royal-Blood-Non-English",
+    "year": 2024,
+    "release_date": "29th November, 2024",
+    "product_count": 152,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP10-JP/802335/802335.jpg"
+  },
+  {
+    "name": "The Best",
+    "slug": "The-Best",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/The-Best",
+    "year": 2024,
+    "release_date": "8th November, 2024",
+    "product_count": 408,
+    "image": "https://product-images.s3.cardmarket.com/1621/PRB01/799294/799294.jpg"
+  },
+  {
+    "name": "Starter Deck: Edward.Newgate",
+    "slug": "Starter-Deck-EdwardNewgate",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-EdwardNewgate",
+    "year": 2024,
+    "release_date": "25th October, 2024",
+    "product_count": 9,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-15/794626/794626.jpg"
+  },
+  {
+    "name": "Starter Deck: Green Uta",
+    "slug": "Starter-Deck-Green-Uta",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Green-Uta",
+    "year": 2024,
+    "release_date": "25th October, 2024",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-16/794643/794643.jpg"
+  },
+  {
+    "name": "Starter Deck: Donquixote Doflamingo",
+    "slug": "Starter-Deck-Donquixote-Doflamingo",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Donquixote-Doflamingo",
+    "year": 2024,
+    "release_date": "25th October, 2024",
+    "product_count": 9,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-17/794648/794648.jpg"
+  },
+  {
+    "name": "Starter Deck: Purple Monkey.D.Luffy",
+    "slug": "Starter-Deck-Purple-MonkeyDLuffy",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Purple-MonkeyDLuffy",
+    "year": 2024,
+    "release_date": "25th October, 2024",
+    "product_count": 9,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-18/794664/794664.jpg"
+  },
+  {
+    "name": "Starter Deck: Smoker",
+    "slug": "Starter-Deck-Smoker",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Smoker",
+    "year": 2024,
+    "release_date": "25th October, 2024",
+    "product_count": 8,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-19/794665/794665.jpg"
+  },
+  {
+    "name": "Starter Deck: Charlotte Katakuri",
+    "slug": "Starter-Deck-Charlotte-Katakuri",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Charlotte-Katakuri",
+    "year": 2024,
+    "release_date": "25th October, 2024",
+    "product_count": 9,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-20/794677/794677.jpg"
+  },
+  {
+    "name": "Two Legends",
+    "slug": "Two-Legends",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Two-Legends",
+    "year": 2024,
+    "release_date": "13th September, 2024",
+    "product_count": 152,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP08/788029/788029.jpg"
+  },
+  {
+    "name": "Promos: Two Legends",
+    "slug": "Promos-Two-Legends",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-Two-Legends",
+    "year": 2024,
+    "release_date": "12th September, 2024",
+    "product_count": 75,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP08P/788379/788379.jpg"
+  },
+  {
+    "name": "Emperors in the New World (Non-English)",
+    "slug": "Emperors-in-the-New-World-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Emperors-in-the-New-World-Non-English",
+    "year": 2024,
+    "release_date": "31st August, 2024",
+    "product_count": 160,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP09-JP/786548/786548.jpg"
+  },
+  {
+    "name": "Starter Deck: 3D2Y",
+    "slug": "Starter-Deck-3D2Y",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-3D2Y",
+    "year": 2024,
+    "release_date": "16th August, 2024",
+    "product_count": 17,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-14/783330/783330.jpg"
+  },
+  {
+    "name": "The Best (Non-English)",
+    "slug": "The-Best-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/The-Best-Non-English",
+    "year": 2024,
+    "release_date": "27th July, 2024",
+    "product_count": 312,
+    "image": "https://product-images.s3.cardmarket.com/1621/PRB01-JP/780999/780999.jpg"
+  },
+  {
+    "name": "Starter Deck: Edward.Newgate (Non-English)",
+    "slug": "Starter-Deck-EdwardNewgate-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-EdwardNewgate-Non-English",
+    "year": 2024,
+    "release_date": "13th July, 2024",
+    "product_count": 9,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-15-JP/802095/802095.jpg"
+  },
+  {
+    "name": "Starter Deck: Green Uta (Non-English)",
+    "slug": "Starter-Deck-Green-Uta-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Green-Uta-Non-English",
+    "year": 2024,
+    "release_date": "13th July, 2024",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-16-JP/802111/802111.jpg"
+  },
+  {
+    "name": "Starter Deck: Donquixote Doflamingo (Non-English)",
+    "slug": "Starter-Deck-Donquixote-Doflamingo-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Donquixote-Doflamingo-Non-English",
+    "year": 2024,
+    "release_date": "13th July, 2024",
+    "product_count": 9,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-17-JP/802132/802132.jpg"
+  },
+  {
+    "name": "Starter Deck: Purple Monkey.D.Luffy (Non-English)",
+    "slug": "Starter-Deck-Purple-MonkeyDLuffy-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Purple-MonkeyDLuffy-Non-English",
+    "year": 2024,
+    "release_date": "13th July, 2024",
+    "product_count": 9,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-18-JP/802118/802118.jpg"
+  },
+  {
+    "name": "Starter Deck: Smoker (Non-English)",
+    "slug": "Starter-Deck-Smoker-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Smoker-Non-English",
+    "year": 2024,
+    "release_date": "13th July, 2024",
+    "product_count": 8,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-19-JP/802123/802123.jpg"
+  },
+  {
+    "name": "Starter Deck: Charlotte Katakuri (Non-English)",
+    "slug": "Starter-Deck-Charlotte-Katakuri-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Charlotte-Katakuri-Non-English",
+    "year": 2024,
+    "release_date": "13th July, 2024",
+    "product_count": 9,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-20-JP/802144/802144.jpg"
+  },
+  {
+    "name": "500 Years into the Future",
+    "slug": "500-Years-into-the-Future",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/500-Years-into-the-Future",
+    "year": 2024,
+    "release_date": "28th June, 2024",
+    "product_count": 152,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP07/775601/775601.png"
+  },
+  {
+    "name": "Promos: 500 Years into the Future",
+    "slug": "Promos-500-Years-into-the-Future",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-500-Years-into-the-Future",
+    "year": 2024,
+    "release_date": "21st June, 2024",
+    "product_count": 75,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP07P/776727/776727.png"
+  },
+  {
+    "name": "Two Legends (Non-English)",
+    "slug": "Two-Legends-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Two-Legends-Non-English",
+    "year": 2024,
+    "release_date": "25th May, 2024",
+    "product_count": 152,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP08-JP/771764/771764.png"
+  },
+  {
+    "name": "Memorial Collection",
+    "slug": "Memorial-Collection",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Memorial-Collection",
+    "year": 2024,
+    "release_date": "3rd May, 2024",
+    "product_count": 80,
+    "image": "https://product-images.s3.cardmarket.com/1621/EB01/768032/768032.png"
+  },
+  {
+    "name": "Starter Deck: 3D2Y (Japanese)",
+    "slug": "Starter-Deck-3D2Y-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-3D2Y-Japanese",
+    "year": 2024,
+    "release_date": "27th April, 2024",
+    "product_count": 17,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-14-JP/782369/782369.jpg"
+  },
+  {
+    "name": "Ultra Deck: The Three Brothers",
+    "slug": "Ultimate-Deck-The-Three-Brothers",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Ultimate-Deck-The-Three-Brothers",
+    "year": 2024,
+    "release_date": "19th April, 2024",
+    "product_count": 35,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-13/766214/766214.png"
+  },
+  {
+    "name": "Wings of the Captain",
+    "slug": "Wings-of-the-Captain",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Wings-of-the-Captain",
+    "year": 2024,
+    "release_date": "15th March, 2024",
+    "product_count": 152,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP06/760626/760626.png"
+  },
+  {
+    "name": "Starter Deck: Zoro & Sanji",
+    "slug": "Starter-Deck-Zoro-Sanji",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Zoro-Sanji",
+    "year": 2024,
+    "release_date": "15th March, 2024",
+    "product_count": 17,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-12/761168/761168.png"
+  },
+  {
+    "name": "Promos: Wings of the Captain",
+    "slug": "Promos-Wings-of-the-Captain",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-Wings-of-the-Captain",
+    "year": 2024,
+    "release_date": "14th March, 2024",
+    "product_count": 75,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP06P/761243/761243.png"
+  },
+  {
+    "name": "500 Years into the Future (Non-English)",
+    "slug": "500-Years-into-the-Future-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/500-Years-into-the-Future-Japanese",
+    "year": 2024,
+    "release_date": "24th February, 2024",
+    "product_count": 152,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP07-JP/759846/759846.png"
+  },
+  {
+    "name": "Starter Deck: Uta",
+    "slug": "Starter-Deck-Uta",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Uta",
+    "year": 2024,
+    "release_date": "2nd February, 2024",
+    "product_count": 5,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-11/754834/754834.png"
+  },
+  {
+    "name": "Memorial Collection (Non-English)",
+    "slug": "Memorial-Collection-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Memorial-Collection-Japanese",
+    "year": 2024,
+    "release_date": "27th January, 2024",
+    "product_count": 80,
+    "image": "https://product-images.s3.cardmarket.com/1621/EB01-JP/754186/754186.png"
+  },
+  {
+    "name": "Ultimate Deck: The Three Brothers (Non-English)",
+    "slug": "Ultra-Deck-The-Three-Brothers-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Ultra-Deck-The-Three-Brothers-Japanese",
+    "year": 2023,
+    "release_date": "23rd December, 2023",
+    "product_count": 35,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-13-JP/750577/750577.png"
+  },
+  {
+    "name": "Promos: Awakening of the New Era",
+    "slug": "Promos-Awakening-of-the-New-Era",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-Awakening-of-the-New-Era",
+    "year": 2023,
+    "release_date": "9th December, 2023",
+    "product_count": 75,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP05P/749392/749392.png"
+  },
+  {
+    "name": "Awakening of the New Era",
+    "slug": "Awakening-of-the-New-Era",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Awakening-of-the-New-Era",
+    "year": 2023,
+    "release_date": "8th December, 2023",
+    "product_count": 155,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP05/747876/747876.png"
+  },
+  {
+    "name": "Wings of the Captain (Non-English)",
+    "slug": "Wings-of-the-Captain-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Wings-of-the-Captain-Japanese",
+    "year": 2023,
+    "release_date": "25th November, 2023",
+    "product_count": 151,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP06-JP/746252/746252.png"
+  },
+  {
+    "name": "Ultra Deck: The Three Captains",
+    "slug": "Ultra-Deck-The-Three-Captains",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Ultra-Deck-The-Three-Captains",
+    "year": 2023,
+    "release_date": "10th November, 2023",
+    "product_count": 20,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-10/744748/744748.png"
+  },
+  {
+    "name": "Starter Deck: Zoro & Sanji (Non-English)",
+    "slug": "Starter-Deck-Zoro-Sanji-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Zoro-Sanji-Japanese",
+    "year": 2023,
+    "release_date": "28th October, 2023",
+    "product_count": 17,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-12-JP/750534/750534.png"
+  },
+  {
+    "name": "Starter Deck: Uta (Non-English)",
+    "slug": "Starter-Deck-Uta-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Uta-Japanese",
+    "year": 2023,
+    "release_date": "7th October, 2023",
+    "product_count": 5,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-11-JP/750527/750527.png"
+  },
+  {
+    "name": "Promos: Kingdoms of Intrigue",
+    "slug": "Promos-Kingdoms-of-Intrigue",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-Kingdoms-of-Intrigue",
+    "year": 2023,
+    "release_date": "22nd September, 2023",
+    "product_count": 75,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP04P/733037/733037.png"
+  },
+  {
+    "name": "Kingdoms of Intrigue",
+    "slug": "Kingdoms-of-Intrigue",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Kingdoms-of-Intrigue",
+    "year": 2023,
+    "release_date": "22nd September, 2023",
+    "product_count": 150,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP04/732811/732811.png"
+  },
+  {
+    "name": "Awakening of the New Era (Non-English)",
+    "slug": "Awakening-of-the-New-Era-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Awakening-of-the-New-Era-Japanese",
+    "year": 2023,
+    "release_date": "26th August, 2023",
+    "product_count": 155,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP05-JP/733463/733463.png"
+  },
+  {
+    "name": "Starter Deck: Yamato (Non-English)",
+    "slug": "Starter-Deck-Yamato-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Yamato-Non-English",
+    "year": 2023,
+    "release_date": "11th August, 2023",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-09-JP/835382/835382.jpg"
+  },
+  {
+    "name": "Starter Deck: Monkey.D.Luffy",
+    "slug": "Starter-Deck-MonkeyDLuffy",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-MonkeyDLuffy",
+    "year": 2023,
+    "release_date": "11th August, 2023",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-08/727572/727572.png"
+  },
+  {
+    "name": "Starter Deck: Yamato",
+    "slug": "Starter-Deck-Yamato",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Yamato",
+    "year": 2023,
+    "release_date": "11th August, 2023",
+    "product_count": 15,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-09/727587/727587.png"
+  },
+  {
+    "name": "Ultimate Deck - The Three Captains (Non-English)",
+    "slug": "Ultimate-Deck-The-Three-Captains-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Ultimate-Deck-The-Three-Captains-Japanese",
+    "year": 2023,
+    "release_date": "29th July, 2023",
+    "product_count": 20,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-10-JP/747213/747213.png"
+  },
+  {
+    "name": "Starter Deck: Big Mom Pirates",
+    "slug": "Starter-Deck-Big-Mom-Pirates",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Big-Mom-Pirates",
+    "year": 2023,
+    "release_date": "30th June, 2023",
+    "product_count": 17,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-07/721210/721210.png"
+  },
+  {
+    "name": "Pillars of Strength",
+    "slug": "Pillars-of-Strength",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Pillars-of-Strength",
+    "year": 2023,
+    "release_date": "30th June, 2023",
+    "product_count": 156,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP03/720060/720060.png"
+  },
+  {
+    "name": "Promos: Pillars of Strength",
+    "slug": "Promos-Pillars-of-Strength",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-Pillars-of-Strength",
+    "year": 2023,
+    "release_date": "23rd June, 2023",
+    "product_count": 77,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP03P/720150/720150.png"
+  },
+  {
+    "name": "Kingdoms of Intrigue (Non-English)",
+    "slug": "Kingdoms-of-Intrigue-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Kingdoms-of-Intrigue-Japanese",
+    "year": 2023,
+    "release_date": "27th May, 2023",
+    "product_count": 150,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP04-JP/733075/733075.png"
+  },
+  {
+    "name": "Paramount War",
+    "slug": "Paramount-War",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Paramount-War",
+    "year": 2023,
+    "release_date": "10th March, 2023",
+    "product_count": 156,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP02/696348/696348.png"
+  },
+  {
+    "name": "Starter Deck: Absolute Justice",
+    "slug": "Starter-Deck-Absolute-Justice",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Absolute-Justice",
+    "year": 2023,
+    "release_date": "10th March, 2023",
+    "product_count": 17,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-06/701244/701244.png"
+  },
+  {
+    "name": "Promos: Paramount War",
+    "slug": "Promos-Paramount-War",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-Paramount-War",
+    "year": 2023,
+    "release_date": "10th March, 2023",
+    "product_count": 76,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP02P/701226/701226.png"
+  },
+  {
+    "name": "Pillars of Strength (Japanese)",
+    "slug": "Pillars-of-Strength-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Pillars-of-Strength-Japanese",
+    "year": 2023,
+    "release_date": "11th February, 2023",
+    "product_count": 155,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP03-JP/744886/744886.png"
+  },
+  {
+    "name": "Starter Deck: ONE PIECE FILM edition",
+    "slug": "Starter-Deck-ONE-PIECE-FILM-edition",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-ONE-PIECE-FILM-edition",
+    "year": 2023,
+    "release_date": "3rd February, 2023",
+    "product_count": 17,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-05/695247/695247.png"
+  },
+  {
+    "name": "Romance Dawn (Pre-Errata)",
+    "slug": "Romance-Dawn-Pre-Errata",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Romance-Dawn-Pre-Errata",
+    "year": 2022,
+    "release_date": "3rd December, 2022",
+    "product_count": 78,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP01E/755416/755416.png"
+  },
+  {
+    "name": "Romance Dawn",
+    "slug": "Romance-Dawn",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Romance-Dawn",
+    "year": 2022,
+    "release_date": "2nd December, 2022",
+    "product_count": 159,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP01/690805/690805.png"
+  },
+  {
+    "name": "Starter Deck: Straw Hat Crew",
+    "slug": "STARTER-DECK-Straw-Hat-Crew",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/STARTER-DECK-Straw-Hat-Crew",
+    "year": 2022,
+    "release_date": "2nd December, 2022",
+    "product_count": 41,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST01/690965/690965.png"
+  },
+  {
+    "name": "Starter Deck: Worst Generation",
+    "slug": "Starter-Deck-Worst-Generation",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Worst-Generation",
+    "year": 2022,
+    "release_date": "2nd December, 2022",
+    "product_count": 35,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-02/691040/691040.png"
+  },
+  {
+    "name": "Starter Deck: The Seven Warlords of the Sea",
+    "slug": "Starter-Deck-The-Seven-Warlords-of-the-Sea",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-The-Seven-Warlords-of-the-Sea",
+    "year": 2022,
+    "release_date": "2nd December, 2022",
+    "product_count": 35,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-03/691077/691077.png"
+  },
+  {
+    "name": "Starter Deck: Animal Kingdom Pirates",
+    "slug": "Starter-Deck-Animal-Kingdom-Pirates",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Animal-Kingdom-Pirates",
+    "year": 2022,
+    "release_date": "2nd December, 2022",
+    "product_count": 34,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-04/691094/691094.png"
+  },
+  {
+    "name": "Mini Promo Cards",
+    "slug": "Mini-Promo-Cards",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Mini-Promo-Cards",
+    "year": 2022,
+    "release_date": "1st December, 2022",
+    "product_count": 14,
+    "image": "https://product-images.s3.cardmarket.com/1621/MINI/873863/873863.jpg"
+  },
+  {
+    "name": "Demo Decks",
+    "slug": "Demo-Decks",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Demo-Decks",
+    "year": 2022,
+    "release_date": "1st December, 2022",
+    "product_count": 12,
+    "image": "https://product-images.s3.cardmarket.com/1621/DEMO/873904/873904.jpg"
+  },
+  {
+    "name": "Paramount War (Japanese)",
+    "slug": "Paramount-War-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Paramount-War-Japanese",
+    "year": 2022,
+    "release_date": "4th November, 2022",
+    "product_count": 155,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP02-JP/768457/768457.png"
+  },
+  {
+    "name": "Starter Deck: Straw Hat Crew (Non-English)",
+    "slug": "Starter-Deck-Straw-Hat-Crew-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Straw-Hat-Crew-Non-English",
+    "year": 2022,
+    "release_date": "8th July, 2022",
+    "product_count": 18,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-01-JP/809570/809570.jpg"
+  },
+  {
+    "name": "Starter Deck: Worst Generation (Non-English)",
+    "slug": "Starter-Deck-Worst-Generation-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Worst-Generation-Non-English",
+    "year": 2022,
+    "release_date": "8th July, 2022",
+    "product_count": 17,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-02-JP/809583/809583.jpg"
+  },
+  {
+    "name": "Starter Deck: The Seven Warlords of the Sea (Non-English)",
+    "slug": "Starter-Deck-The-Seven-Warlords-of-the-Sea-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-The-Seven-Warlords-of-the-Sea-Non-English",
+    "year": 2022,
+    "release_date": "8th July, 2022",
+    "product_count": 17,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-03-JP/809600/809600.jpg"
+  },
+  {
+    "name": "Starter Deck: Animal Kingdom Pirates (Non-English)",
+    "slug": "Starter-Deck-Animal-Kingdom-Pirates-Non-English",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Starter-Deck-Animal-Kingdom-Pirates-Non-English",
+    "year": 2022,
+    "release_date": "8th July, 2022",
+    "product_count": 17,
+    "image": "https://product-images.s3.cardmarket.com/1621/ST-04-JP/809619/809619.jpg"
+  },
+  {
+    "name": "Romance Dawn (Japanese)",
+    "slug": "Romance-Dawn-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Romance-Dawn-Japanese",
+    "year": 2022,
+    "release_date": "22nd June, 2022",
+    "product_count": 155,
+    "image": "https://product-images.s3.cardmarket.com/1621/OP01-JP/768265/768265.png"
+  },
+  {
+    "name": "Premium Bandai Products",
+    "slug": "Premium-Bandai-Products",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Premium-Bandai-Products",
+    "year": 2022,
+    "release_date": "10th January, 2022",
+    "product_count": 93,
+    "image": "https://product-images.s3.cardmarket.com/1621/PB-XX/698922/698922.png"
+  },
+  {
+    "name": "Premium Bandai Products (Asia Region Legal)",
+    "slug": "Premium-Bandai-Products-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Premium-Bandai-Products-Asia-Region-Legal",
+    "year": 2022,
+    "release_date": "10th January, 2022",
+    "product_count": 53,
+    "image": "https://product-images.s3.cardmarket.com/1621/PB-JP/871471/871471.jpg"
+  },
+  {
+    "name": "Special Tournament Promos (Non-English)",
+    "slug": "Special-Tournament-Promos-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Special-Tournament-Promos-Japanese",
+    "year": 2022,
+    "release_date": "9th January, 2022",
+    "product_count": 102,
+    "image": "https://product-images.s3.cardmarket.com/1621/STP-JP/750516/750516.png"
+  },
+  {
+    "name": "Special Tournament Promos",
+    "slug": "Special-Tournaments-Promos",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Special-Tournaments-Promos",
+    "year": 2022,
+    "release_date": "8th January, 2022",
+    "product_count": 487,
+    "image": "https://product-images.s3.cardmarket.com/1621/STP/696192/696192.png"
+  },
+  {
+    "name": "Unnumbered Promos (Non-English)",
+    "slug": "Unnumbered-Promos-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Unnumbered-Promos-Japanese",
+    "year": 2022,
+    "release_date": "7th January, 2022",
+    "product_count": 459,
+    "image": "https://product-images.s3.cardmarket.com/1621/UP-JP/738949/738949.png"
+  },
+  {
+    "name": "Unnumbered Promos",
+    "slug": "Unnumbered-Promos",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Unnumbered-Promos",
+    "year": 2022,
+    "release_date": "6th January, 2022",
+    "product_count": 400,
+    "image": "https://product-images.s3.cardmarket.com/1621/UP-JP/701697/701697.png"
+  },
+  {
+    "name": "Store Tournament Promos",
+    "slug": "Store-Tournament-Promos",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Store-Tournament-Promos",
+    "year": 2022,
+    "release_date": "5th January, 2022",
+    "product_count": 23,
+    "image": "https://product-images.s3.cardmarket.com/1621/STR/806196/806196.jpg"
+  },
+  {
+    "name": "Store Tournament Promos (Asia Region Legal)",
+    "slug": "Store-Tournament-Promos-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Store-Tournament-Promos-Asia-Region-Legal",
+    "year": 2022,
+    "release_date": "5th January, 2022",
+    "product_count": 4,
+    "image": "https://product-images.s3.cardmarket.com/1621/STR-JP/902543/902543.jpg"
+  },
+  {
+    "name": "Winner Cards",
+    "slug": "Winner-Cards",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Winner-Cards",
+    "year": 2022,
+    "release_date": "5th January, 2022",
+    "product_count": 63,
+    "image": "https://product-images.s3.cardmarket.com/1621/WC/754935/754935.png"
+  },
+  {
+    "name": "Winner Cards (Asia Region Legal)",
+    "slug": "Winner-Cards-Asia-Region-Legal",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Winner-Cards-Asia-Region-Legal",
+    "year": 2022,
+    "release_date": "5th January, 2022",
+    "product_count": 1,
+    "image": "https://product-images.s3.cardmarket.com/1621/WC-JP/902539/902539.jpg"
+  },
+  {
+    "name": "Promos (Japanese)",
+    "slug": "Promos-Japanese",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos-Japanese",
+    "year": 2022,
+    "release_date": "5th January, 2022",
+    "product_count": 165,
+    "image": "https://product-images.s3.cardmarket.com/1621/P-JP/722805/722805.png"
+  },
+  {
+    "name": "Promos",
+    "slug": "Promos",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Promos",
+    "year": 2022,
+    "release_date": "4th January, 2022",
+    "product_count": 205,
+    "image": "https://product-images.s3.cardmarket.com/1621/P/691231/691231.png"
+  },
+  {
+    "name": "Judge Promos",
+    "slug": "Judge-Promos",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Judge-Promos",
+    "year": 2022,
+    "release_date": "3rd January, 2022",
+    "product_count": 85,
+    "image": "https://product-images.s3.cardmarket.com/1621/JDG/701993/701993.png"
+  },
+  {
+    "name": "Reprints",
+    "slug": "Reprints",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/Reprints",
+    "year": 2022,
+    "release_date": "2nd January, 2022",
+    "product_count": 45,
+    "image": "https://product-images.s3.cardmarket.com/1621/R/701389/701389.png"
+  },
+  {
+    "name": "One Piece Products",
+    "slug": "One-Piece-Products",
+    "url": "https://www.cardmarket.com/en/OnePiece/Expansions/One-Piece-Products",
+    "year": 2022,
+    "release_date": "1st January, 2022",
+    "product_count": 99,
+    "image": "https://product-images.s3.cardmarket.com/1621/OPPR/691712/691712.png"
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "name": "Ephemerate",
+  "url": "https://www.cardmarket.com/en/Magic/Cards/Ephemerate/Versions",
+  "versions": [
+    {
+      "expansion": "Secret Lair Drop Series: A Perfectly Normal Superdrop",
+      "label": "Secret Lair Drop Series: A Perfectly Normal Superdrop",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Secret-Lair-Drop-Series-A-Perfectly-Normal-Superdrop/Ephemerate",
+      "available_items": 7,
+      "from_price": 9.95,
+      "image": "https://product-images.s3.cardmarket.com/1/SLDPNS/905719/905719.jpg"
+    },
+    {
+      "expansion": "Secret Lair Drop Series: Secret Lair x Marvel's Spider-Man Superdrop",
+      "label": "Secret Lair Drop Series: Secret Lair x Marvel's Spider-Man Superdrop",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Secret-Lair-Drop-Series-Secret-Lair-x-Marvels-Spider-Man-Superdrop/Ephemerate",
+      "available_items": 194,
+      "from_price": 8.0,
+      "image": "https://product-images.s3.cardmarket.com/1/SLDMSM/850366/850366.jpg"
+    },
+    {
+      "expansion": "Marvel Source Material Cards",
+      "label": "Marvel Source Material Cards",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Marvel-Source-Material-Cards/Ephemerate",
+      "available_items": 545,
+      "from_price": 3.5,
+      "image": "https://product-images.s3.cardmarket.com/1/MAR/890836/890836.jpg"
+    },
+    {
+      "expansion": "Modern Horizons: Retro Frame Cards",
+      "label": "Modern Horizons: Retro Frame Cards",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Modern-Horizons-Retro-Frame-Cards/Ephemerate-V2",
+      "available_items": 38,
+      "from_price": 9.0,
+      "image": "https://product-images.s3.cardmarket.com/1/RMH2/567737/567737.jpg"
+    },
+    {
+      "expansion": "Modern Horizons: Retro Frame Cards",
+      "label": "Modern Horizons: Retro Frame Cards",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Modern-Horizons-Retro-Frame-Cards/Ephemerate-V1",
+      "available_items": 118,
+      "from_price": 11.5,
+      "image": "https://product-images.s3.cardmarket.com/1/RMH2/566180/566180.jpg"
+    },
+    {
+      "expansion": "Mystical Archive",
+      "label": "Mystical Archive",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Mystical-Archive/Ephemerate-V4",
+      "available_items": 44,
+      "from_price": 30.0,
+      "image": "https://product-images.s3.cardmarket.com/1/STA/559346/559346.jpg"
+    },
+    {
+      "expansion": "Mystical Archive",
+      "label": "Mystical Archive",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Mystical-Archive/Ephemerate-V3",
+      "available_items": 64,
+      "from_price": 11.99,
+      "image": "https://product-images.s3.cardmarket.com/1/STA/559256/559256.jpg"
+    },
+    {
+      "expansion": "Mystical Archive",
+      "label": "Mystical Archive",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Mystical-Archive/Ephemerate-V2",
+      "available_items": 83,
+      "from_price": 21.0,
+      "image": "https://product-images.s3.cardmarket.com/1/STA/557082/557082.jpg"
+    },
+    {
+      "expansion": "Mystical Archive",
+      "label": "Mystical Archive",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Mystical-Archive/Ephemerate-V1",
+      "available_items": 320,
+      "from_price": 5.0,
+      "image": "https://product-images.s3.cardmarket.com/1/STA/556492/556492.jpg"
+    },
+    {
+      "expansion": "Mystery Booster",
+      "label": "Mystery Booster",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Mystery-Booster/Ephemerate",
+      "available_items": 95,
+      "from_price": 4.83,
+      "image": "https://product-images.s3.cardmarket.com/1/MYS/415826/415826.jpg"
+    },
+    {
+      "expansion": "Modern Horizons",
+      "label": "Modern Horizons",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Modern-Horizons/Ephemerate",
+      "available_items": 2228,
+      "from_price": 3.55,
+      "image": "https://product-images.s3.cardmarket.com/1/MH1/375405/375405.jpg"
+    },
+    {
+      "expansion": "Promos",
+      "label": "Promos",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Promos/Ephemerate",
+      "available_items": 105,
+      "from_price": 7.5,
+      "image": "https://product-images.s3.cardmarket.com/1/PROM/679537/679537.jpg"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+# cardmarket-api
+
+> Unofficial Cardmarket API for Python. An open-source library and CLI that scrapes cardmarket.com through the Scrape.do web scraping API and returns JSON. No official Cardmarket API key needed, and no Cloudflare 403 blocks.
+
+Cardmarket (cardmarket.com) is Europe's largest trading card marketplace. It runs behind Cloudflare, so plain HTTP clients (requests, httpx, curl, cloudscraper) get "403 Forbidden" or a "Just a moment..." challenge. This library sends each request through Scrape.do (https://scrape.do), which handles Cloudflare, and parses the HTML.
+
+It returns:
+- card and sealed product prices: lowest price, price trend, 30/7/1-day averages, recent price history (last 30 days with sales)
+- all seller offers of a product (up to Cardmarket's 300-offer limit), including condition, language, foil, first edition, seller, country and quantity; it keeps one Scrape.do sessionId so "Show more results" works
+- offers across every printing of a card, and the list of printings
+- product lists, search and full catalogue export per game (works around the 1000-results-per-query limit)
+- expansions with release dates, seller profiles and seller stock, weekly best sellers
+
+It supports all 22 games on Cardmarket: Magic: The Gathering, Pokémon, Yu-Gi-Oh!, One Piece, Lorcana, Riftbound, Digimon, Dragon Ball Super, Flesh and Blood, Star Wars Unlimited, Gundam, Final Fantasy TCG, Cardfight!! Vanguard, Weiss Schwarz, Force of Will, Cyberpunk, World of Warcraft TCG, Battle Spirits Saga, Star Wars: Destiny, Dragoborne, My Little Pony CCG and The Spoils.
+
+## Usage
+
+- Install: `pip install git+https://github.com/batuzyn/cardmarket-api.git`
+- Auth: set `SCRAPEDO_TOKEN` (a Scrape.do API token)
+- Python: `from cardmarket_scrapedo import Cardmarket; Cardmarket().product(url, offers="all")`
+- CLI: `cardmarket product <url>`, `cardmarket search Pokemon charizard`, `cardmarket catalog YuGiOh`
+
+## Docs
+
+- [README](https://github.com/batuzyn/cardmarket-api#readme): features, filters, output fields, limits, FAQ
+- [Scrape.do](https://scrape.do/?utm_source=github&utm_medium=repo_cardmarket): the web scraping API used for requests
+
+## Notes
+
+- Not affiliated with Cardmarket (Sammelkartenmarkt GmbH & Co. KG).
+- Prices are in EUR. Each request is one Scrape.do call with super=true (typically 10 credits).
+- Support: GitHub issues for the library; support@scrape.do for Scrape.do accounts and blocked requests.
+- Tested output: https://github.com/batuzyn/cardmarket-api/tree/main/examples/results

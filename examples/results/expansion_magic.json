@@ -1,0 +1,49 @@
+{
+  "id": 2440,
+  "name": "Modern Horizons",
+  "url": "https://www.cardmarket.com/en/Magic/Expansions/Modern-Horizons",
+  "release_date": "14th June, 2019",
+  "card_count": 337,
+  "categories": [
+    {
+      "category": "Singles",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Modern-Horizons",
+      "from_price": 0.02
+    },
+    {
+      "category": "Boosters",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Boosters?idExpansion=2440",
+      "from_price": 6.99
+    },
+    {
+      "category": "Booster Boxes",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Booster-Boxes?idExpansion=2440",
+      "from_price": 69.0
+    },
+    {
+      "category": "Sets",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Sets?idExpansion=2440",
+      "from_price": 1.2
+    },
+    {
+      "category": "Sleeves",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Sleeves?idExpansion=2440",
+      "from_price": 7.49
+    },
+    {
+      "category": "Playmats",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Playmats?idExpansion=2440",
+      "from_price": 12.0
+    },
+    {
+      "category": "Deck Boxes",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Deck-Boxes?idExpansion=2440",
+      "from_price": 4.9
+    },
+    {
+      "category": "Binders",
+      "url": "https://www.cardmarket.com/en/Magic/Products/Albums?idExpansion=2440",
+      "from_price": 34.75
+    }
+  ]
+}
