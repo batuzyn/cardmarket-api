@@ -2,6 +2,8 @@
 from __future__ import annotations
 
 import logging
+import random
+import time
 from concurrent.futures import ThreadPoolExecutor
 from typing import Callable, Dict, Iterable, Iterator, List, Optional, TypeVar, Union
 from urllib.parse import urlencode, urlsplit
@@ -29,13 +31,15 @@ class Cardmarket:
     """
 
     def __init__(self, token: Optional[str] = None, *, language: str = "en", transport: Optional[ScrapeDo] = None,
-                 flow_retries: int = 2):
+                 flow_retries: int = 3, click_delay: float = 1.0, retry_backoff: float = 3.0):
         if language != "en":
             # The parsers read English labels ("Price Trend", "Page 1 of", ...).
             raise ValueError("only the English site (language='en') is supported")
         self.http = transport or ScrapeDo(token)
         self.language = language
         self.flow_retries = flow_retries
+        self.click_delay = click_delay      # seconds between "Show more results" clicks (+ up to 50% jitter)
+        self.retry_backoff = retry_backoff  # wait before reloading after a failed click, grows per attempt
 
     # ------------------------------------------------------------------ urls
     def url(self, path_or_url: str, **params) -> str:
@@ -178,35 +182,54 @@ class Cardmarket:
     # ---------------------------------------------------------------- offers
     def _with_offers(self, url: str, parse: Callable[[str], dict], action: str, offers: OfferLimit) -> dict:
         """Load a page and, if asked, click "Show more results" on the same session.
-        offers: "first" (only the page), "all", or a number of offers to stop at."""
+        offers: "first" (only the page), "all", or a number of offers to stop at.
+
+        Cardmarket answers fast repeated clicks with 429, so clicks are spaced out. A failed
+        click is answered by waiting, reloading the page on a new session (the form token is
+        tied to the session) and continuing from the page that failed, not from the start."""
+        want = None if offers in ("all", None, "first") else int(offers)
+        first_only = offers in (None, "first")
+        data: Optional[dict] = None
+        offers_by_id: Dict = {}
+        next_page: Optional[str] = None
         last_error: Optional[Exception] = None
         for attempt in range(self.flow_retries + 1):
+            if attempt:
+                time.sleep(self.retry_backoff * attempt + random.uniform(0, 1))
             sid = new_session_id()
-            data = parse(self.http.get(url, session_id=sid))
-            form = data.pop("load_more", None)
-            want = None if offers == "all" else (None if offers in (None, "first") else int(offers))
-            first_only = offers in (None, "first")
+            page = parse(self.http.get(url, session_id=sid))
+            form = page.pop("load_more", None)
+            if data is None:
+                data = page
+                for o in page["offers"]:
+                    offers_by_id.setdefault(o["id"], o)
+            if form and next_page:
+                form = dict(form, page=next_page)   # resume where the last session failed
             capped = False  # the site stopped at its offer limit, more exist
             try:
-                while form and not first_only and (want is None or len(data["offers"]) < want):
+                while form and not first_only and (want is None or len(offers_by_id) < want):
+                    time.sleep(self.click_delay + random.uniform(0, self.click_delay / 2))
                     answer = parse_load_more(self.http.post_form(f"{self._game_base(url)}/AjaxAction/{action}", form, sid))
-                    data["offers"].extend(answer["offers"])
+                    for o in answer["offers"]:
+                        offers_by_id.setdefault(o["id"], o)
                     if answer["last_page"] or not answer["next_page"]:
                         capped = answer.get("capped", False)
                         form = None
                         break
-                    form = dict(form, page=str(answer["next_page"]))
+                    next_page = str(answer["next_page"])
+                    form = dict(form, page=next_page)
             except (LoadMoreRefused, ScrapeDoError) as e:
                 if isinstance(e, NotFound):
                     raise
                 last_error = e
                 log.info("load more failed (%s), reloading %s", e, url)
                 continue
-            truncated = want is not None and len(data["offers"]) > want
-            if want is not None:
-                data["offers"] = data["offers"][:want]
+            result = list(offers_by_id.values())
+            truncated = want is not None and len(result) > want
+            data["offers"] = result[:want] if want is not None else result
             # complete: every offer the product has is in the result
             data["offers_complete"] = form is None and not capped and not truncated
+            data["attempts"] = attempt + 1
             return data
         raise last_error  # type: ignore[misc]
 

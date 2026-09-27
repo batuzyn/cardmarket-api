@@ -34,7 +34,11 @@ Every flow below was run against the live site, and the files are the unedited o
 | Lorcana weekly best sellers | 100 products | 1 | [JSON](examples/results/top_cards_lorcana.json) |
 | Seller profile / seller stock (foils) | 10 categories / 40 offers | 1 / 2 | [JSON](examples/results/seller_profile.json) · [JSONL](examples/results/seller_offers_foil.jsonl) |
 
-Full table with timings and credits: [examples/results/SUMMARY.md](examples/results/SUMMARY.md). One offer from that output:
+Full table with timings and credits: [examples/results/SUMMARY.md](examples/results/SUMMARY.md).
+
+**Larger benchmark:** [970 Magic cards with 30 workers](examples/results/FOIL_SPLIT_BENCHMARK.md): every offer of each card, with tables that hit the 300-row cap split into foil and non-foil. 97.3% succeeded on the first pass, in 12 minutes, collecting 144,008 offers.
+
+One offer from that output:
 
 ```json
 {
@@ -133,6 +137,14 @@ cardmarket --out pokemon-singles.jsonl catalog Pokemon
 cardmarket --out lorcana-sealed.jsonl catalog Lorcana --category Booster-Boxes
 ```
 
+### Every offer of many cards, splitting foil / non-foil past the 300-row cap
+
+```bash
+python examples/foil_split.py urls.txt --workers 30 --out results.jsonl
+```
+
+See the [benchmark](examples/results/FOIL_SPLIT_BENCHMARK.md) for what it does and how it performed on 970 cards.
+
 ### Offers of many cards into one CSV
 
 ```bash
@@ -193,7 +205,7 @@ Prices are floats in EUR, as Cardmarket shows them. `price_history` has one poin
 
 ## Limits Cardmarket puts on its pages (and how the library handles them)
 
-- **Offers:** Cardmarket shows at most 300 per product. `offers="all"` loads up to that in 6 requests (plus retries if a request fails). `offers_complete` is `true` only when the result holds every offer the product has; it is `false` when you set a limit, stopped at the first page, or hit the 300 cap.
+- **Offers:** Cardmarket rate-limits rapid "Show more results" clicks, so the library spaces them out (`click_delay`, default ~1 s). After a failed click it waits (`retry_backoff`), reloads the page and continues from the page that failed (`flow_retries`, default 3). Cardmarket shows at most 300 offers per product. `offers="all"` loads up to that in 6 requests (plus retries if a request fails). `offers_complete` is `true` only when the result holds every offer the product has; it is `false` when you set a limit, stopped at the first page, or hit the 300 cap.
 - **Product lists and search:** 100 per page, at most 10 pages, so 1000 results per query. `catalog()` goes expansion by expansion. An expansion that reaches 1000 is read per rarity and by name A–Z and Z–A (which also catches products without a rarity), then de-duplicated. Expansions that fail are skipped and listed in `cm.catalog_errors`.
 - **Seller stock:** 20 per page, at most 100 pages (2000 offers). Narrow it with filters such as `idExpansions`, `idRarities`, `minPrice` and `maxPrice`.
 - **Search with one match:** Cardmarket redirects straight to the product. `search()` returns it as a single result.

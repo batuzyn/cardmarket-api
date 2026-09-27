@@ -13,8 +13,15 @@ PRODUCT_HTML = (FIX / "magic_product.html").read_text(encoding="utf-8")
 LOAD_MORE_XML = (FIX / "magic_product_load_more.xml").read_text(encoding="utf-8")
 
 
+_page_no = [0]
+
+
 def ajax(next_page, last):
-    rows = re.search(r"<rows>(.*?)</rows>", LOAD_MORE_XML, re.S).group(1)
+    """A load-more answer with 50 fresh offer ids (real pages never repeat offers)."""
+    _page_no[0] += 1
+    rows = base64.b64decode(re.search(r"<rows>(.*?)</rows>", LOAD_MORE_XML, re.S).group(1)).decode()
+    rows = re.sub(r'id="articleRow(\d+)"', lambda m: f'id="articleRow9{_page_no[0]:03d}{m.group(1)}"', rows)
+    rows = base64.b64encode(rows.encode()).decode()
     return (f"<ajaxResponse><rows>{rows}</rows><newPage>{next_page}</newPage>"
             f"<maxPaginatedResultsReached>{int(last)}</maxPaginatedResultsReached></ajaxResponse>")
 
@@ -194,3 +201,13 @@ def test_token_never_appears_in_errors(monkeypatch):
     cm = Cardmarket(transport=ScrapeDo(token="SECRET123", retries=0))
     out = list(cm.map(lambda u: cm.product(u), ["/Magic/Products/Singles/X/Y"]))
     assert "error" in out[0] and "SECRET123" not in out[0]["error"]
+
+
+def test_failed_click_resumes_from_the_failed_page():
+    err = ScrapeDoError(502, "429 from target", "x")
+    http = FakeHttp([ajax(3, False), err, ajax(4, False), ajax(-1, False)])
+    p = Cardmarket(transport=http).product("/Magic/Products/Singles/X/Y", offers="all")
+    posts = [c for c in http.calls if c[0] == "POST"]
+    assert [c[3]["page"] for c in posts] == ["1", "3", "3", "4"]      # page 3 retried, not 1 again
+    assert posts[1][2] != posts[2][2]                                  # on a new session
+    assert len(p["offers"]) == 50 + 3 * 50 and p["offers_complete"] and p["attempts"] == 2

@@ -1,0 +1,134 @@
+{
+  "input": "https://www.cardmarket.com/en/Magic/Products/Singles/Innistrad/Abattoir-Ghoul",
+  "status": "split",
+  "tables": [
+    {
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Innistrad/Abattoir-Ghoul?sellerCountry=1,2,35,6,8,12,7,14,15,17,20,23,25,26,31,30,10,28&sellerType=1,2&language=1&minCondition=4&isSigned=N&isAltered=N&isFoil=N",
+      "rows": 255,
+      "capped": false,
+      "attempts": 2,
+      "offers": [
+        {
+          "id": 174501393,
+          "seller": {
+            "name": "schaminos",
+            "url": "https://www.cardmarket.com/en/Magic/Users/schaminos",
+            "type": "Professional",
+            "country": "Germany",
+            "sales": 13375,
+            "available_items": 40415
+          },
+          "product": null,
+          "condition": "Excellent",
+          "condition_code": "EX",
+          "language": "English",
+          "is_foil": false,
+          "is_signed": false,
+          "is_altered": false,
+          "is_playset": false,
+          "is_first_edition": false,
+          "is_reverse_holo": false,
+          "comments": null,
+          "scan_image": null,
+          "price": 0.02,
+          "price_original": null,
+          "currency": "EUR",
+          "quantity": 4
+        },
+        {
+          "id": 1322800010,
+          "seller": {
+            "name": "Rawcast",
+            "url": "https://www.cardmarket.com/en/Magic/Users/Rawcast",
+            "type": "Professional",
+            "country": "Greece",
+            "sales": 9586,
+            "available_items": 105926
+          },
+          "product": null,
+          "condition": "Near Mint",
+          "condition_code": "NM",
+          "language": "English",
+          "is_foil": false,
+          "is_signed": false,
+          "is_altered": false,
+          "is_playset": false,
+          "is_first_edition": false,
+          "is_reverse_holo": false,
+          "comments": "Fast & Secure",
+          "scan_image": null,
+          "price": 0.03,
+          "price_original": null,
+          "currency": "EUR",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "url": "https://www.cardmarket.com/en/Magic/Products/Singles/Innistrad/Abattoir-Ghoul?sellerCountry=1,2,35,6,8,12,7,14,15,17,20,23,25,26,31,30,10,28&sellerType=1,2&language=1&minCondition=4&isSigned=N&isAltered=N&isFoil=Y",
+      "rows": 45,
+      "capped": false,
+      "attempts": 1,
+      "offers": [
+        {
+          "id": 1327805101,
+          "seller": {
+            "name": "Bronhy",
+            "url": "https://www.cardmarket.com/en/Magic/Users/Bronhy",
+            "type": "Professional",
+            "country": "Croatia",
+            "sales": 65245,
+            "available_items": 29766
+          },
+          "product": null,
+          "condition": "Excellent",
+          "condition_code": "EX",
+          "language": "English",
+          "is_foil": true,
+          "is_signed": false,
+          "is_altered": false,
+          "is_playset": false,
+          "is_first_edition": false,
+          "is_reverse_holo": false,
+          "comments": "Check out my other cards.",
+          "scan_image": null,
+          "price": 0.15,
+          "price_original": null,
+          "currency": "EUR",
+          "quantity": 1
+        },
+        {
+          "id": 730440088,
+          "seller": {
+            "name": "MagicCornerVienna",
+            "url": "https://www.cardmarket.com/en/Magic/Users/MagicCornerVienna",
+            "type": "Professional",
+            "country": "Austria",
+            "sales": 3392,
+            "available_items": 6908
+          },
+          "product": null,
+          "condition": "Excellent",
+          "condition_code": "EX",
+          "language": "English",
+          "is_foil": true,
+          "is_signed": false,
+          "is_altered": false,
+          "is_playset": false,
+          "is_first_edition": false,
+          "is_reverse_holo": false,
+          "comments": null,
+          "scan_image": null,
+          "price": 0.15,
+          "price_original": null,
+          "currency": "EUR",
+          "quantity": 4
+        }
+      ]
+    }
+  ],
+  "requests": 15,
+  "credits": 140,
+  "seconds": 42.8,
+  "error": null
+}
